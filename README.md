@@ -10,8 +10,7 @@ And this is a text
 * Bulleted
 * List
 
-```
-this is code
+``` this is code
 print (hello world)
 ```
-![This is Alt Text]zan-headshot.png
+![This is Alt Text](zan-headshot.png)
