@@ -13,4 +13,3 @@ And this is a text
 ``` this is code
 print (hello world)
 ```
-![This is Alt Text](zan-headshot.png)
