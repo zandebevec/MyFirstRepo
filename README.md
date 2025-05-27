@@ -14,4 +14,4 @@ And this is a text
 this is code
 print (hello world)
 ```
-![This is Alt Text]pic
+![This is Alt Text]zan-headshot.png
