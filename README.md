@@ -9,9 +9,6 @@ And this is a text - This is conflict starter
 
 * This
 * Is
-* A
-* Bulleted
-* List
 
 ``` this is code
 print (hello world)
