@@ -13,6 +13,8 @@ And this is a text - This is conflict starter
 * Bulleted
 * List
 
+* This was added in branch
+
 ``` this is code
 print (hello world)
 ```
